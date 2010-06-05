@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Dist-Zilla-Plugin-EOLTests,
-version 0.01:
+version 0.02:
 
   Release tests making sure correct line endings are used
 
